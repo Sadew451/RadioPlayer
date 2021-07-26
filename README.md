@@ -20,7 +20,7 @@ Radio in [SDBOTs Inifinity](https://t.me/SDBOTs_inifinity) Channel & Music in [S
 
 ## Deploy to Heroku (The Easy Way)
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/sadew451/RadioPlayerV2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/sadew451/RadioPlayer2.0"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deploying!
 
 ## Heroku Vars:
