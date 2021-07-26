@@ -1,5 +1,13 @@
 # Telegram Radio Player V2
 
+</a>
+  <p align="center"><a href="https://t.me/SDBOTs_inifinity"><img src="https://telegra.ph/file/5942996e9f9914a778805.jpg" width="400"></a></p>
+<p align="center">
+  <a href="https://github.com/sadew451/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.sv
+
+
+
+
 ![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV2)
 
 
