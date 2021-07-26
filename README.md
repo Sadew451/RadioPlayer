@@ -27,7 +27,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 1. `API_ID` : Get From my.telegram.org
 2. `API_HASH` : Get From my.telegram.org
 3. `BOT_TOKEN` : Get it From @Botfather
-4. `SESSION_STRING` : Generate From [@genStr robot](http://t.me/genStr_robot).
+4. `SESSION_STRING` : Generate From [@SDStringSessonGenbot](http://t.me/SDStringSessonGenbot).
 5. `CHAT` : ID of Channel/Group where the bot plays Music/Radio.
 6. `LOG_GROUP` : Group to send Playlist, if CHAT is a Group.
 7. `ADMINS` : ID of users who can use admin commands.
