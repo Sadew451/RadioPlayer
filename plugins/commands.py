@@ -62,7 +62,7 @@ async def start(client, message):
     ],
     [
         InlineKeyboardButton('MORE BOTS', url='https://t.me/SDBOTs_inifinity/248'),
-        InlineKeyboardButton('SOURCE CODE', url='https://github.com/sadew451/RadioPlayerV2'),
+        InlineKeyboardButton('SOURCE CODE', url='https://github.com/sadew451/RadioPlayer2.0'),
     ],
     [
         InlineKeyboardButton('⚙️ HELP ⚙️', callback_data='help'),
