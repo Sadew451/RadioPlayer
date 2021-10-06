@@ -42,7 +42,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 - Bot will starts radio automatically in given `CHAT` with given `STREAM_URL` after deploy. 
 - 24x7 Music even if heroku restarts, radio stream restarts automatically.  
 - To play a song just send the audio file to Bot or reply to an audio with `/play` to start playing it in the voice chat.
-- To download audio you can use [@EzilaXBot](http://t.me/EzilaXBot) or `/song` command to the bot.
+- To download audio you can use [@TheNatsukiBot](http://t.me/TheNatsukiBot) or `/song` command to the bot.
 - Use `/help` to know about other commands & its usage.
 
 ## Requirements
@@ -71,27 +71,9 @@ Edit **config.py** with your own values.
 $ python3 main.py
 ```
 
-## License
-```sh
-RadioPlayerV2, Telegram Voice Chat Userbot
-Copyright (C) 2021  Sadew Jayasekara
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>
-```
 ## Credits
 
-- [Asm Safone](https://github.com/AsmSafone) [Dev]
-- [Dash Eclipse](https://github.com/dashezup) [Dev]
+- [Asm Safone](https://github.com/AsmSafone) 
+- [Dash Eclipse](https://github.com/dashezup) 
 - [Il'ya](https://github.com/MarshalX) [For tgcalls]
 - [Subin](https://github.com/subinps) [For bot support]
