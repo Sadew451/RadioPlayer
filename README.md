@@ -1,15 +1,10 @@
 # Telegram Radio Player V2
 
-![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV2)
-
-</a>
-  <p align="center"><a href="https://t.me/SDBOTs_inifinity"><img src="https://telegra.ph/file/5942996e9f9914a778805.jpg" width="400"></a></p>
-<p align="center">
+![GitHub](https://img.shields.io/github/license/Sadew451/FM)
 
 
 
-
-An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
+- An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
 Radio in [SDBOTs Inifinity](https://t.me/SDBOTs_inifinity) Channel & Music in [SDBOTs](https://t.me/SDBOTz) Group.
