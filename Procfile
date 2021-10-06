@@ -1,1 +1,1 @@
-Safone: python3 main.py
+SDBOTs: python3 main.py
